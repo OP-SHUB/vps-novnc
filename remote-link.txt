@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inflation-fair-supplies-taxes.trycloudflare.com/vnc.html
+URL       : https://sig-transmission-church-buddy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 16:14:39
+Created   : 2026-06-27 21:14:44
 =======================================================
