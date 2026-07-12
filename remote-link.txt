@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proceeding-gazette-coffee-nightlife.trycloudflare.com/vnc.html
+URL       : https://milton-infectious-adoption-equally.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 11:12:43
+Created   : 2026-07-12 16:03:08
 =======================================================
