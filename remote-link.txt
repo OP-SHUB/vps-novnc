@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://techrepublic-howto-proudly-myspace.trycloudflare.com/vnc.html
+URL       : https://rock-kind-url-leather.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-13 17:15:34
+Created   : 2026-07-13 21:00:49
 =======================================================
