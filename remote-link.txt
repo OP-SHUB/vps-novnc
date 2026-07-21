@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://comparing-interim-criteria-samples.trycloudflare.com/vnc.html
+URL       : https://deal-medication-offset-earth.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-21 11:49:58
+Created   : 2026-07-21 16:26:19
 =======================================================
