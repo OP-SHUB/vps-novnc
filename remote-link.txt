@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rejected-tricks-bloggers-funny.trycloudflare.com/vnc.html
+URL       : https://highly-stages-survey-union.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 02:50:37
+Created   : 2026-08-02 07:34:17
 =======================================================
