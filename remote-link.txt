@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pilot-armstrong-filters-fcc.trycloudflare.com/vnc.html
+URL       : https://displays-expertise-army-physical.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 00:55:37
+Created   : 2026-08-07 06:13:06
 =======================================================
