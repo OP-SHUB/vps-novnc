@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://advice-similar-simultaneously-limited.trycloudflare.com/vnc.html
+URL       : https://vatican-elect-ones-scholars.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 06:18:29
+Created   : 2026-08-12 11:03:47
 =======================================================
