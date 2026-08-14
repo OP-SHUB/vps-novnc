@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://highest-cylinder-deserve-recruitment.trycloudflare.com/vnc.html
+URL       : https://sol-compatible-optimize-returns.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 11:00:54
+Created   : 2026-08-14 20:33:45
 =======================================================
