@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vital-sec-paying-regards.trycloudflare.com/vnc.html
+URL       : https://smart-wisdom-resistant-firm.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 20:27:26
+Created   : 2026-08-19 01:17:28
 =======================================================
