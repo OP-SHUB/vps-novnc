@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roll-campus-capitol-structured.trycloudflare.com/vnc.html
+URL       : https://lately-shorts-appreciate-linking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 01:19:41
+Created   : 2026-08-21 05:35:12
 =======================================================
