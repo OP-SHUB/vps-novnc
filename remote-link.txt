@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tip-designs-dennis-snake.trycloudflare.com/vnc.html
+URL       : https://titles-poultry-workplace-notes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-26 05:36:25
+Created   : 2026-08-26 10:37:36
 =======================================================
