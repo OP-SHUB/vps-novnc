@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://immigrants-flour-timer-hopefully.trycloudflare.com/vnc.html
+URL       : https://merry-offer-reunion-slip.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 14:05:00
+Created   : 2026-09-04 18:11:51
 =======================================================
