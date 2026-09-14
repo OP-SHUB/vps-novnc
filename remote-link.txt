@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://duties-intended-verification-venice.trycloudflare.com/vnc.html
+URL       : https://bye-generating-took-settled.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 03:49:57
+Created   : 2026-09-14 10:23:30
 =======================================================
