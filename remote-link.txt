@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nicole-positive-facing-previews.trycloudflare.com/vnc.html
+URL       : https://reads-tech-promoted-heads.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 18:52:49
+Created   : 2026-09-17 22:44:24
 =======================================================
