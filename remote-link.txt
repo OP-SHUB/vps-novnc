@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lucky-techno-surgeon-usr.trycloudflare.com/vnc.html
+URL       : https://treated-cradle-vast-pst.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 22:15:47
+Created   : 2026-09-21 03:47:46
 =======================================================
