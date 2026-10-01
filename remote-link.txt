@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://empty-read-peer-cocktail.trycloudflare.com/vnc.html
+URL       : https://facing-readings-artist-happy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-01 04:33:53
+Created   : 2026-10-01 11:26:55
 =======================================================
