@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://predicted-rhythm-african-modules.trycloudflare.com/vnc.html
+URL       : https://tender-findarticles-pilot-pleased.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 22:17:53
+Created   : 2026-10-19 03:40:50
 =======================================================
